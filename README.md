@@ -16,6 +16,6 @@ There is a requirements.txt file in the root of this repo. Doing ```pip install 
 The API key for your discord bot is expected to be in a json file at ```Data Files/server_info.json```. The json is expected to have the following schema
 ```json
 {
-    "music_bot_api_key" : "YOUR API KEY
+    "music_bot_api_key" : "YOUR API KEY"
 }
 ```
